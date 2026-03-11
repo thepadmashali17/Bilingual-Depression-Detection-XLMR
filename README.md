@@ -41,12 +41,9 @@ AUC: 0.97
 - Attention heatmaps
 - LIME feature importance
 
-## Run the Project
+## Run the Notebook in Google Colab
 
-Install dependencies:
+You can run the project directly in Google Colab:
 
-pip install -r requirements.txt
-
-Run notebook:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/USERNAME/REPO/blob/main/CODE.ipynb)
+(https://colab.research.google.com/github/thepadmashali17/Bilingual-Depression-Detection-XLMR/blob/main/CODE.ipynb)
