@@ -48,11 +48,5 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run notebook:
-
-FDD.ipynb
-
-## Authors
-- Sudeepa R
-- Varun S S
-- Vikas Padmashali Lakshmipathi
-- Vikranth Subramanyam
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/USERNAME/REPO/blob/main/CODE.ipynb)
