@@ -45,5 +45,4 @@ AUC: 0.97
 
 You can run the project directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/thepadmashali17/Bilingual-Depression-Detection-XLMR/blob/main/CODE.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thepadmashali17/Bilingual-Depression-Detection-XLMR/blob/main/CODE.ipynb)
